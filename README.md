@@ -1,4 +1,4 @@
-# Po-Yun (Roger) Chen
+# Po-YunChen
 
 > Cross-disciplinary engineer bridging polymer materials, semiconductor process, and applied AI — building toward materials informatics and AI-driven R&D across battery, energy, and advanced-materials domains.
 
